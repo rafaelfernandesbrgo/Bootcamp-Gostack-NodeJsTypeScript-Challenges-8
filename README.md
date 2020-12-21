@@ -8,14 +8,14 @@ In this challenge, an application was created in NodeJs with Typescript that sho
 Among others, the following concepts and technologies were used:
 
 - Domain Driven Design - DDD: With division into modules, layers ...
-- Operations with customers, products and orders, DTO
+- Operations with customers, products and orders
 - Typescript, typing
 - Routes, controllers, services, repositories
 - Migration, typeorm, Entities and postgres database
 - Automated dependency injection with tsyringe
 - OneToMany, ManyToMany, ManyToOne relationships
 - Vector operations
-- Implementation of methods
+- Implementation of methods, DTO
 - Error handling
 - Unitary tests
 
@@ -28,14 +28,14 @@ Nesse desafio foi criado em NodeJs com Typescript uma aplicação que deve permi
 Entre outras, foram utilizadas os seguintes conceitos e tecnologias:
 
 - Domain Driven Design - DDD : Com divisao em modulos, camadas...
-- Operações com clientes, produtos e pedidos, DTO
+- Operações com clientes, produtos e pedidos
 - Typescript, typing
 - Rotas, controllers, services, repositories
 - Migration, typeorm, Entidades e banco de dados postgres
 - Injeção de dependencia automatizado com o tsyringe
 - Relacionamentos OneToMany, ManyToMany, ManyToOne
 - Operações com vetores
-- Implementação de metodos
+- Implementação de metodos, DTO
 - Tratamento de erros
 - Testes unitários
 
